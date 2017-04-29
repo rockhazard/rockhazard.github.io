@@ -36,8 +36,21 @@ div.panel {
 #footer {
     position: absolute;
     width: auto;
-    top: 300px;
+    top: 615px;
 
+}
+
+#footBar {
+    position: absolute;
+    width: 800px;
+    top: 600px;
+}
+
+#article {
+    float: right;
+    position: static;
+    width: 400px;
+    height: 400px;
 }
 
 hr { 
