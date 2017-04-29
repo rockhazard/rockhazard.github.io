@@ -148,7 +148,8 @@ button {
 	border-style: dashed;
 	border-color: black;	
 	background-color: #ffff99;
-	margin: auto;
+	margin-top: 1px;
+	margin-bottom: 1px;
 }
 
 button:hover {
