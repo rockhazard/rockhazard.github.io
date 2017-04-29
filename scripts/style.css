@@ -160,6 +160,7 @@ button:hover {
 table {
 	font-weight: bold;
 	/*border-collapse: collapse;*/
+	border-style: solid;
 	border-color: black;
 	border-width: 1px;
 	align-content: center;
@@ -169,8 +170,6 @@ table.spells {
 	width: 620px;
 	font-weight: bold;
 	/*border-collapse: collapse;*/
-	border-color: black;
-	border-width: 1px;
 }
 
 tr.header {
