@@ -23,13 +23,13 @@ div.panel {
     border-width: 1px;
     border-color: orange;
     border-radius: 5px;
-    padding: 5px;
-    margin: 5px;
+    padding: 8px;
+    margin: 8px;
     position: absolute;
 }
 
 #nav {
-    width: 250px;
+    width: 300px;
     text-align: left;
 }
 
@@ -38,6 +38,17 @@ div.panel {
     width: auto;
     top: 300px;
 
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    color: white;
 }
 
 h1 {
