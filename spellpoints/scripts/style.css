@@ -1,4 +1,6 @@
 /* works best with css reset (for stripping browser render customizations): <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
+spellpoints
+
 */
 
 html {
@@ -15,6 +17,7 @@ html {
 	position: relative;
 	height: 1050px;
 	width: 600px;
+	margin: auto;
 }
 
 div.info {
@@ -197,5 +200,5 @@ td.head {
 
 #links {
 	position: absolute;
-	bottom: 358px;
+	bottom: 360px;
 }
