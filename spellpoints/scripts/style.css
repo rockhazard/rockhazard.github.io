@@ -13,7 +13,8 @@ html {
 
 #caster {
 	position: relative;
-	/*left: 0px;*/
+	height: 1050px;
+	width: 600px;
 }
 
 div.info {
@@ -136,6 +137,10 @@ p {
 	margin-top: 2px;
 }
 
+a {
+    text-decoration: none ;
+}
+
 select {
 	font-weight: bold;
 	font-size: 1.4em;
@@ -188,4 +193,9 @@ td.head {
 	align-content: cneter;
 	font-size: 1em;
 	font-weight: bold;
+}
+
+#links {
+	position: absolute;
+	bottom: 393px;
 }
