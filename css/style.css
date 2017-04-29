@@ -92,3 +92,11 @@ p {
 a {
     text-decoration: none ;
 }
+
+a h3:hover {
+    color: orange;
+}
+
+a:hover {
+    color: orange;
+}
