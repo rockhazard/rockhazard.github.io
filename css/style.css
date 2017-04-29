@@ -30,7 +30,7 @@ div.panel {
 
 #nav {
     width: 280px;
-    height: 480px;
+    height: 460px;
     text-align: left;
 }
 
@@ -38,7 +38,7 @@ div.panel {
     float: right;
     position: static;
     width: 450px;
-    height: 480px;
+    height: 460px;
 }
 
 #footer {
