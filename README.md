@@ -12,4 +12,4 @@ A utility to assist tracking of spell points when using the variant rules for pl
 
 ---
 
-### [Edit Markdown](https://github.com/rockhazard/rockhazard.github.io/edit/master/README.md)
+#### [Edit Markdown](https://github.com/rockhazard/rockhazard.github.io/edit/master/README.md)
