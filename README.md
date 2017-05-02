@@ -1,6 +1,6 @@
 ![rockhazard](images/privateer.large.png)
 # rockhazard's page
-
+---
 ## Projects
 - ### [Spell Point Calculator](https://rockhazard.github.io/spell-point-calculator/)
 
