@@ -8,7 +8,7 @@
 
 A utility to assist tracking of spell points when using the variant rules for players in the D&D 5th Edition _Dungeon Master's Guide_ on page 288.
 
-#### [View Readme](https://github.com/rockhazard/spell-point-calculator/master/README.md)
+#### [View Readme](https://raw.githubusercontent.com/rockhazard/spell-point-calculator/master/README.md)
 #### [View Repo](https://github.com/rockhazard/spell-point-calculator)
 
 ---
