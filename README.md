@@ -2,7 +2,7 @@
 # rockhazard's page
 ---
 ## Projects
-- ### [Spell Point Calculator](https://rockhazard.github.io/spell-point-calculator/)
+### >> [Spell Point Calculator](https://rockhazard.github.io/spell-point-calculator/)
 
 ![spell points](images/spellpoints.jpg)
 
