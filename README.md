@@ -20,5 +20,12 @@ A utility that converts an average glucose reading given in mg/dL to hemoglobin 
 #### [View Repo](https://github.com/rockhazard/glucose-calculator)
 
 ---
+### >> [rWall](https://github.com/rockhazard/rWall-Stable)
+
+Written in Python 3, rWall is a feature-rich cross platform commandline program that turns your desktop background into a flipbook or slide show. Great for rediscovering large image collections.
+
+#### [View Repo](https://github.com/rockhazard/rWall-Stable)
+
+---
 
 [Edit Markdown](https://github.com/rockhazard/rockhazard.github.io/edit/master/README.md)
