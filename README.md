@@ -1,5 +1,5 @@
 ![rockhazard](images/privateer.large.png)
-# rockhazard's page
+# Ike Davis
 
 ---
 
