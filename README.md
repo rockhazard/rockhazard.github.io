@@ -1,4 +1,3 @@
-![rockhazard](images/privateer.large.png)
 # Ike Davis
 
 ---
