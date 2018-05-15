@@ -24,7 +24,7 @@ A utility to assist tracking of spell points when using the variant rules for pl
 ---
 ### >> [Hemoglobin A1c Calculator](https://rockhazard.github.io/glucose-calculator/)
 
-![A1c Calculator](images/glucose-calculator.jpg)
+![A1c Calculator](images/glucose-calculator_2.jpg)
 
 A utility that converts an average glucose reading given in mg/dL to hemoglobin A1c.
 
