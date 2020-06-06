@@ -13,9 +13,9 @@ Written in Python 3, rWall is a feature-rich cross platform commandline program 
 #### [View Repo](https://github.com/rockhazard/rWall-Stable)
 
 ---
-### >> [Spell Point Calculator](https://rockhazard.github.io/spell-point-calculator/)
+### >> [Launch the Spell Point Calculator](https://rockhazard.github.io/spell-point-calculator/)
 
-![spell points](images/spellpoints.jpg)
+![spell points](images/spell-point-calculator-2020.png)
 
 A utility to assist tracking of spell points when using the variant rules for players in the D&D 5th Edition _Dungeon Master's Guide_ on page 288.
 
